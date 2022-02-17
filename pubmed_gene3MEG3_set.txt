@@ -1,0 +1,1028 @@
+PMID- 31326791
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200213
+LR  - 20200213
+IS  - 1950-6007 (Electronic)
+IS  - 0753-3322 (Linking)
+VI  - 118
+DP  - 2019 Oct
+TI  - Maternally expressed gene 3 (MEG3): A tumor suppressor long non coding RNA.
+PG  - 109129
+LID - S0753-3322(19)32160-2 [pii]
+LID - 10.1016/j.biopha.2019.109129 [doi]
+AB  - Maternally expressed gene 3 (MEG3) is a long non-coding RNA (lncRNA) located on 
+      chromosome 14q32.3. Direct sequencing experiments have shown monoallelic expression 
+      of this lncRNA. Several studies have shown down-regulation of this lncRNA in human 
+      cancers. In some cases, hypermethylation of the promoter region has been suggested 
+      as the underlying mechanism. Functional studies have shown that this lncRNA controls 
+      expression of several tumor suppressor genes and oncogenes among them are p53, RB, 
+      MYC and TGF-β. Through regulation of Wnt-β-catenin pathway, it also affects 
+      epithelial-mesenchymal transition. In vitro studies have demonstrated contribution 
+      of MEG3 in defining response to chemotherapeutic agents such as paclitaxel, 
+      cisplatin and oxaliplatin. Certain polymorphisms within MEG3 are implicated in 
+      cancer risk (rs7158663, rs4081134 and rs11160608) or therapeutic response of cancer 
+      patients (rs10132552). Taken together, this lncRNA is regarded as a putative cancer 
+      biomarker and treatment target. In the current review, several aspects of the 
+      participation of MEG3 in carcinogenesis are discussed.
+CI  - Copyright © 2019 The Authors. Published by Elsevier Masson SAS.. All rights 
+      reserved.
+FAU - Ghafouri-Fard, Soudeh
+AU  - Ghafouri-Fard S
+AD  - Department of Medical Genetics, Shahid Beheshti University of Medical Sciences, 
+      Tehran, Iran.
+FAU - Taheri, Mohammad
+AU  - Taheri M
+AD  - Urology and Nephrology Research Center, Shahid Beheshti University of Medical 
+      Sciences, Tehran, Iran; Urogenital Stem Cell Research Center, Shahid Beheshti 
+      University of Medical Sciences, Tehran, Iran. Electronic address: 
+      mohammad.taheri@sbmu.ac.ir.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190718
+PL  - France
+TA  - Biomed Pharmacother
+JT  - Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+JID - 8213295
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (MEG3 non-coding RNA, human)
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Antineoplastic Agents/pharmacology
+MH  - Cell Line, Tumor
+MH  - DNA Methylation
+MH  - Down-Regulation
+MH  - *Gene Expression Regulation, Neoplastic/drug effects
+MH  - *Genes, Tumor Suppressor/drug effects
+MH  - Humans
+MH  - Neoplasms/*genetics
+MH  - Polymorphism, Single Nucleotide
+MH  - RNA, Long Noncoding/*genetics
+MH  - Wnt Signaling Pathway/drug effects/genetics
+OTO - NOTNLM
+OT  - Cancer
+OT  - Expression
+OT  - MEG3
+OT  - Maternally expressed 3
+OT  - Single nucleotide polymorphism
+EDAT- 2019/07/22 06:00
+MHDA- 2020/02/14 06:00
+CRDT- 2019/07/22 06:00
+PHST- 2019/05/09 00:00 [received]
+PHST- 2019/06/10 00:00 [revised]
+PHST- 2019/06/12 00:00 [accepted]
+PHST- 2019/07/22 06:00 [pubmed]
+PHST- 2020/02/14 06:00 [medline]
+PHST- 2019/07/22 06:00 [entrez]
+AID - S0753-3322(19)32160-2 [pii]
+AID - 10.1016/j.biopha.2019.109129 [doi]
+PST - ppublish
+SO  - Biomed Pharmacother. 2019 Oct;118:109129. doi: 10.1016/j.biopha.2019.109129. Epub 
+      2019 Jul 18.
+
+PMID- 30793226
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191219
+LR  - 20210109
+IS  - 1532-2807 (Electronic)
+IS  - 1219-4956 (Linking)
+VI  - 25
+IP  - 3
+DP  - 2019 Jul
+TI  - MEG3: an Oncogenic Long Non-coding RNA in Different Cancers.
+PG  - 859-874
+LID - 10.1007/s12253-019-00614-3 [doi]
+AB  - Long noncoding RNAs (lncRNAs) have recently considered as central regulators in 
+      diverse biological processes and emerged as vital players controlling tumorigenesis. 
+      Several lncRNAs can be classified into oncogenes and tumor suppressor genes 
+      depending on their function in cancer. A maternally expressed gene 3 (MEG3) gene 
+      transcripts a 1.6 kb lncRNA whose act as an antitumor component in different cancer 
+      cells, such as breast, liver, glioma, colorectal, cervical, gastric, lung, ovarian 
+      and osteosarcoma cancer cells. The present review highlights biological function of 
+      MEG3 to repress tumor through regulating the major tumor suppressor genes p53 and 
+      Rb, inhibiting angiogenesis-related factor, or controlling miRNAs. On the other 
+      hand, previous studies have also suggested that MEG3 mediates epithelial-mesenchymal 
+      transition (EMT). However, deregulation of MEG3 is associated with the  development 
+      and progression of cancer, suggesting that MEG3 may function as a potential 
+      biomarker and therapeutic target for human cancers.
+FAU - Al-Rugeebah, Arwa
+AU  - Al-Rugeebah A
+AD  - Genome Research Chair, College of Science, King Saud University, Riyadh, Saudi 
+      Arabia.
+FAU - Alanazi, Mohammed
+AU  - Alanazi M
+AD  - Genome Research Chair, College of Science, King Saud University, Riyadh, Saudi 
+      Arabia.
+FAU - Parine, Narasimha Reddy
+AU  - Parine NR
+AUID- ORCID: 0000-0002-0765-9022
+AD  - Genome Research Chair, College of Science, King Saud University, Riyadh, Saudi 
+      Arabia. reddyparine@gmail.com.
+LA  - eng
+GR  - 1-17-01-001-0066/King Abdulaziz City for Science and Technology/
+PT  - Journal Article
+PT  - Review
+DEP - 20190221
+PL  - Switzerland
+TA  - Pathol Oncol Res
+JT  - Pathology oncology research : POR
+JID - 9706087
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Animals
+MH  - Carcinogenesis/*genetics
+MH  - Epithelial-Mesenchymal Transition/genetics
+MH  - Humans
+MH  - Neoplasms/*genetics/*pathology
+MH  - Oncogenes/*genetics
+MH  - RNA, Long Noncoding/*genetics
+OTO - NOTNLM
+OT  - Angiogenesis
+OT  - Cancer
+OT  - MEG3
+OT  - Methylation
+OT  - lncRNA
+OT  - p53
+EDAT- 2019/02/23 06:00
+MHDA- 2019/12/20 06:00
+CRDT- 2019/02/23 06:00
+PHST- 2018/11/29 00:00 [received]
+PHST- 2019/02/08 00:00 [accepted]
+PHST- 2019/02/23 06:00 [pubmed]
+PHST- 2019/12/20 06:00 [medline]
+PHST- 2019/02/23 06:00 [entrez]
+AID - 10.1007/s12253-019-00614-3 [pii]
+AID - 10.1007/s12253-019-00614-3 [doi]
+PST - ppublish
+SO  - Pathol Oncol Res. 2019 Jul;25(3):859-874. doi: 10.1007/s12253-019-00614-3. Epub 2019 
+      Feb 21.
+
+PMID- 29449542
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200406
+LR  - 20200408
+IS  - 2041-4889 (Electronic)
+VI  - 9
+IP  - 3
+DP  - 2018 Feb 15
+TI  - Long non-coding RNAs in ischemic stroke.
+PG  - 281
+LID - 10.1038/s41419-018-0282-x [doi]
+LID - 281
+AB  - Stroke is one of the leading causes of mortality and disability worldwide. 
+      Uncovering the cellular and molecular pathophysiological processes in stroke have 
+      been a top priority. Long non-coding (lnc) RNAs play critical roles in different 
+      kinds of diseases. In recent years, a bulk of aberrantly expressed lncRNAs have been 
+      screened out in ischemic stroke patients or ischemia insulted animals using new 
+      technologies such as RNA-seq, deep sequencing, and microarrays. Nine specific 
+      lncRNAs, antisense non-coding RNA in the INK4 locus (ANRIL), metastasis-associate 
+      lung adenocarcinoma transcript 1 (MALAT1), N1LR, maternally expressed gene 3 (MEG3), 
+      H19, CaMK2D-associated transcript 1 (C2dat1), Fos downstream transcript (FosDT), 
+      small nucleolar RNA host gene 14 (SNHG14), and taurine-upregulated gene 1 (TUG1), 
+      were found increased in cerebral ischemic animals and/or oxygen-glucose deprived 
+      (OGD) cells. These lncRNAs were suggested to promote cell apoptosis, angiogenesis, 
+      inflammation, and cell death. Our Gene Ontology (GO) enrichment analysis predicted 
+      that MEG3, H19, and MALAT1 might also be related to functions such as neurogenesis, 
+      angiogenesis, and inflammation through mechanisms of gene regulation (DNA 
+      transcription, RNA folding, methylation, and gene imprinting). This knowledge may 
+      provide a better understanding of the functions and mechanisms of lncRNAs in 
+      ischemic stroke. Further elucidating the functions and mechanisms of these lncRNAs 
+      in biological systems under normal and pathological conditions may lead to 
+      opportunities for identifying biomarkers and novel therapeutic targets of ischemic 
+      stroke.
+FAU - Bao, Mei-Hua
+AU  - Bao MH
+AD  - Department of Anatomy, Histology and Embryology, Institute of Neuroscience, Changsha 
+      Medical University, Changsha, 410219, China.
+AD  - Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada.
+AD  - Department of Surgery, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada.
+FAU - Szeto, Vivian
+AU  - Szeto V
+AD  - Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada.
+FAU - Yang, Burton B
+AU  - Yang BB
+AD  - Sunnybrook Research Institute and Department of Laboratory Medicine and Pathology, 
+      Faculty of Medicine, University of Toronto, Toronto, Canada.
+FAU - Zhu, Shu-Zhen
+AU  - Zhu SZ
+AD  - Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada.
+AD  - Department of Surgery, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada.
+FAU - Sun, Hong-Shuo
+AU  - Sun HS
+AD  - Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada. hss.sun@utoronto.ca.
+AD  - Department of Surgery, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada. hss.sun@utoronto.ca.
+FAU - Feng, Zhong-Ping
+AU  - Feng ZP
+AD  - Department of Physiology, Faculty of Medicine, University of Toronto, Toronto, ON, 
+      Canada. zp.feng@utoronto.ca.
+LA  - eng
+GR  - FRN 132571/CIHR/Canada
+GR  - PJT 153-155/CIHR/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20180215
+TA  - Cell Death Dis
+JT  - Cell death & disease
+JID - 101524092
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Animals
+MH  - Brain/*metabolism/physiopathology
+MH  - Brain Ischemia/genetics/*metabolism/physiopathology
+MH  - Gene Expression Regulation
+MH  - Humans
+MH  - RNA, Long Noncoding/genetics/*metabolism
+MH  - Signal Transduction
+MH  - Stroke/genetics/*metabolism/physiopathology
+PMC - PMC5833768
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2018/02/17 06:00
+MHDA- 2020/04/09 06:00
+CRDT- 2018/02/17 06:00
+PHST- 2017/10/30 00:00 [received]
+PHST- 2017/12/27 00:00 [accepted]
+PHST- 2017/12/27 00:00 [revised]
+PHST- 2018/02/17 06:00 [entrez]
+PHST- 2018/02/17 06:00 [pubmed]
+PHST- 2020/04/09 06:00 [medline]
+AID - 10.1038/s41419-018-0282-x [pii]
+AID - 282 [pii]
+AID - 10.1038/s41419-018-0282-x [doi]
+PST - epublish
+SO  - Cell Death Dis. 2018 Feb 15;9(3):281. doi: 10.1038/s41419-018-0282-x.
+
+PMID- 32098245
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201119
+LR  - 20201119
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 4
+DP  - 2020 Feb 21
+TI  - The Roles and Mechanisms of lncRNAs in Liver Fibrosis.
+LID - 10.3390/ijms21041482 [doi]
+LID - 1482
+AB  - Many studies have revealed that circulating long noncoding RNAs (lncRNAs) regulate 
+      gene and protein expression in the process of hepatic fibrosis. Liver fibrosis is a 
+      reversible wound healing response followed by excessive extracellular matrix 
+      accumulation. In the development of liver fibrosis, some lncRNAs regulate diverse 
+      cellular processes by acting as competing endogenous RNAs (ceRNAs) and binding 
+      proteins. Previous investigations demonstrated that overexpression of lncRNAs such 
+      as H19, maternally expressed gene 3 (MEG3), growth arrest-specific transcript 5 
+      (GAS5), Gm5091, NR_002155.1, and HIF 1alpha-antisense RNA 1 (HIF1A-AS1) can inhibit 
+      the progression of liver fibrosis. Furthermore, the upregulation of several lncRNAs 
+      [e.g., nuclear paraspeckle assembly transcript 1 (NEAT1), hox transcript antisense 
+      RNA (Hotair), and liver-enriched fibrosis-associated lncRNA1 (lnc-LFAR1)] has been 
+      reported to promote liver fibrosis. This review will focus on the functions and 
+      mechanisms of lncRNAs, the lncRNA transcriptome profile of liver fibrosis, and the 
+      main lncRNAs involved in the signalling pathways that regulate hepatic fibrosis. 
+      This review provides insight into the screening of therapeutic and diagnostic 
+      markers of liver fibrosis.
+FAU - He, Zhi
+AU  - He Z
+AD  - College of Animal Science and Technology, Sichuan Agricultural University, Chengdu 
+      611130, China.
+FAU - Yang, Deying
+AU  - Yang D
+AD  - College of Animal Science and Technology, Sichuan Agricultural University, Chengdu 
+      611130, China.
+AD  - Farm Animal Genetic Resources Exploration and Innovation Key Laboratory of Sichuan 
+      Province, Sichuan Agricultural University, Chengdu 611130, China.
+FAU - Fan, Xiaolan
+AU  - Fan X
+AD  - College of Animal Science and Technology, Sichuan Agricultural University, Chengdu 
+      611130, China.
+AD  - Farm Animal Genetic Resources Exploration and Innovation Key Laboratory of Sichuan 
+      Province, Sichuan Agricultural University, Chengdu 611130, China.
+FAU - Zhang, Mingwang
+AU  - Zhang M
+AD  - College of Animal Science and Technology, Sichuan Agricultural University, Chengdu 
+      611130, China.
+AD  - Farm Animal Genetic Resources Exploration and Innovation Key Laboratory of Sichuan 
+      Province, Sichuan Agricultural University, Chengdu 611130, China.
+FAU - Li, Yan
+AU  - Li Y
+AD  - College of Animal Science and Technology, Sichuan Agricultural University, Chengdu 
+      611130, China.
+AD  - Farm Animal Genetic Resources Exploration and Innovation Key Laboratory of Sichuan 
+      Province, Sichuan Agricultural University, Chengdu 611130, China.
+FAU - Gu, Xiaobin
+AU  - Gu X
+AD  - College of Veterinary Medicine, Sichuan Agricultural University, Chengdu 611130, 
+      China.
+FAU - Yang, Mingyao
+AU  - Yang M
+AUID- ORCID: 0000-0001-6508-2738
+AD  - College of Animal Science and Technology, Sichuan Agricultural University, Chengdu 
+      611130, China.
+AD  - Farm Animal Genetic Resources Exploration and Innovation Key Laboratory of Sichuan 
+      Province, Sichuan Agricultural University, Chengdu 611130, China.
+LA  - eng
+GR  - 31771338, 31402286, 31972777/Natural Science Foundation of China/
+GR  - 03572781/the Double Support Project of Discipline Construction of Sichuan 
+      Agricultural University/
+PT  - Journal Article
+PT  - Review
+DEP - 20200221
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Biomarkers)
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers/metabolism
+MH  - *Gene Expression Regulation
+MH  - Humans
+MH  - Liver/*metabolism/pathology
+MH  - Liver Cirrhosis/diagnosis/*metabolism/pathology
+MH  - RNA, Long Noncoding/*biosynthesis
+MH  - *Signal Transduction
+MH  - *Transcriptome
+PMC - PMC7073061
+OTO - NOTNLM
+OT  - function
+OT  - liver fibrosis
+OT  - lncRNA
+OT  - mechanism
+COIS- The authors declare no conflicts of interest.
+EDAT- 2020/02/27 06:00
+MHDA- 2020/11/20 06:00
+CRDT- 2020/02/27 06:00
+PHST- 2020/01/19 00:00 [received]
+PHST- 2020/02/14 00:00 [revised]
+PHST- 2020/02/19 00:00 [accepted]
+PHST- 2020/02/27 06:00 [entrez]
+PHST- 2020/02/27 06:00 [pubmed]
+PHST- 2020/11/20 06:00 [medline]
+AID - ijms21041482 [pii]
+AID - ijms-21-01482 [pii]
+AID - 10.3390/ijms21041482 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Feb 21;21(4):1482. doi: 10.3390/ijms21041482.
+
+PMID- 33643816
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210303
+IS  - 2211-3835 (Print)
+IS  - 2211-3843 (Electronic)
+IS  - 2211-3835 (Linking)
+VI  - 11
+IP  - 2
+DP  - 2021 Feb
+TI  - Long non-coding RNAs: From disease code to drug role.
+PG  - 340-354
+LID - 10.1016/j.apsb.2020.10.001 [doi]
+AB  - Enormous studies have corroborated that long non-coding RNAs (lncRNAs) extensively 
+      participate in crucial physiological processes such as metabolism and immunity, and 
+      are closely related to the occurrence and development of tumors, cardiovascular 
+      diseases, nervous system disorders, nephropathy, and other diseases. The application 
+      of lncRNAs as biomarkers or intervention targets can provide new insights into the 
+      diagnosis and treatment of diseases. This paper has focused on the emerging research 
+      into lncRNAs as pharmacological targets and has reviewed the transition of lncRNAs 
+      from the role of disease coding to acting as drug candidates, including the current 
+      status and progress in preclinical research. Cutting-edge strategies for lncRNA 
+      modulation have been summarized, including the sources of lncRNA-related drugs, such 
+      as genetic technology and small-molecule compounds, and related delivery methods. 
+      The current progress of clinical trials of lncRNA-targeting drugs is also discussed. 
+      This information will form a latest updated reference for research and development 
+      of lncRNA-based drugs.
+CI  - © 2021 Chinese Pharmaceutical Association and Institute of Materia Medica, Chinese 
+      Academy of Medical Sciences. Production and hosting by Elsevier B.V.
+FAU - Chen, Yuanyuan
+AU  - Chen Y
+AD  - State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+      Institute of Materia Medica, Chinese Academy of Medical Sciences, Peking Union 
+      Medical College, Beijing 100050, China.
+FAU - Li, Zhaojun
+AU  - Li Z
+AD  - State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+      Institute of Materia Medica, Chinese Academy of Medical Sciences, Peking Union 
+      Medical College, Beijing 100050, China.
+FAU - Chen, Xiaoguang
+AU  - Chen X
+AD  - State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+      Institute of Materia Medica, Chinese Academy of Medical Sciences, Peking Union 
+      Medical College, Beijing 100050, China.
+FAU - Zhang, Sen
+AU  - Zhang S
+AD  - State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, 
+      Institute of Materia Medica, Chinese Academy of Medical Sciences, Peking Union 
+      Medical College, Beijing 100050, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20201010
+TA  - Acta Pharm Sin B
+JT  - Acta pharmaceutica Sinica. B
+JID - 101600560
+PMC - PMC7893121
+OTO - NOTNLM
+OT  - AD, Alzheimer's disease
+OT  - ANRIL, antisense noncoding RNA gene at the INK4 locus
+OT  - ASO, antisense oligonucleotide
+OT  - ASncmtRNA
+OT  - ASncmtRNA, antisense noncoding mitochondrial RNA
+OT  - BCAR4, breast cancer anti-estrogen resistance 4
+OT  - BDNF-AS, brain-derived neurotrophic factor antisense
+OT  - CASC9, cancer susceptibility candidate 9
+OT  - CDK, cyclin dependent kinase 1
+OT  - CHRF, cardiac hypertrophy related factor
+OT  - CRISPR, clustered regularly interspaced short palindromic repeats
+OT  - Clinical trials
+OT  - DACH1, dachshund homolog 1
+OT  - DANCR, differentiation antagonizing non-protein coding RNA
+OT  - DKD, diabetic kidney disease
+OT  - DPF, diphenyl furan
+OT  - Delivery
+OT  - EBF3-AS, early B cell factor 3-antisense
+OT  - ENE, element for nuclear expression
+OT  - Erbb4-IR, Erb-B2 receptor tyrosine kinase 4-immunoreactivity
+OT  - FDA, U.S. Food and Drug Administration
+OT  - GAPDH, glyceraldehyde-3-phosphate dehydrogenase
+OT  - GAS5, growth arrest specific 5
+OT  - Gene therapy
+OT  - HISLA, HIF-1α-stabilizing long noncoding RNA
+OT  - HOTAIR, HOX transcript antisense intergenic RNA
+OT  - HULC, highly upregulated in liver cancer
+OT  - LIPCAR, long intergenic noncoding RNA predicting cardiac remodeling
+OT  - LNAs, locked nucleic acids
+OT  - LncRNAs
+OT  - MALAT1, metastasis associated lung adenocarcinoma transcript 1
+OT  - MEG3, maternally expressed gene 3
+OT  - MHRT, myosin heavy chain associated RNA transcripts
+OT  - MM, multiple myeloma
+OT  - NEAT1, nuclear enriched abundant transcript 1
+OT  - NKILA, NF-kappaB interacting lncRNA
+OT  - NPs, nanoparticles
+OT  - Norad, non-coding RNA activated by DNA damage
+OT  - OIP5-AS1, opa-interacting protein 5 antisense transcript 1
+OT  - PD, Parkinson's disease
+OT  - PEG, polyethylene glycol
+OT  - PNAs, peptide nucleic acids
+OT  - PTO, phosphorothioate
+OT  - PVT1, plasmacytoma variant translocation 1
+OT  - RGD, arginine-glycine-aspartic acid peptide
+OT  - RISC, RNA-induced silencing complex
+OT  - SALRNA1, senescence associated long non-coding RNA 1
+OT  - SNHG1, small nucleolar RNA host gene 1
+OT  - Small molecules
+OT  - SncmtRNA, sense noncoding mitochondrial RNA
+OT  - THRIL, TNF and HNRNPL related immunoregulatory
+OT  - TTTY15, testis-specific transcript, Y-linked 15
+OT  - TUG1, taurine-upregulated gene 1
+OT  - TWIST1, twist family BHLH transcription factor 1
+OT  - Targeted drug
+OT  - TncRNA, trophoblast-derived noncoding RNA
+OT  - Translational medicine
+OT  - UCA1, urothelial carcinoma-associated 1
+OT  - UTF1, undifferentiated transcription factor 1
+OT  - XIST, X-inactive specific transcript
+OT  - lincRNA-p21, long intergenic noncoding RNA p21
+OT  - lncRNAs, long non-coding RNAs
+OT  - mtlncRNA, mitochondrial long noncoding RNA
+OT  - pHLIP, pH-low insertion peptide
+OT  - sgRNA, single guide RNA
+OT  - siRNAs, small interfering RNAs
+COIS- The authors declare no conflicts of competitive interest.
+EDAT- 2021/03/02 06:00
+MHDA- 2021/03/02 06:01
+CRDT- 2021/03/01 05:38
+PHST- 2020/04/12 00:00 [received]
+PHST- 2020/08/06 00:00 [revised]
+PHST- 2020/08/21 00:00 [accepted]
+PHST- 2021/03/01 05:38 [entrez]
+PHST- 2021/03/02 06:00 [pubmed]
+PHST- 2021/03/02 06:01 [medline]
+AID - S2211-3835(20)30734-6 [pii]
+AID - 10.1016/j.apsb.2020.10.001 [doi]
+PST - ppublish
+SO  - Acta Pharm Sin B. 2021 Feb;11(2):340-354. doi: 10.1016/j.apsb.2020.10.001. Epub 2020 
+      Oct 10.
+
+PMID- 31271897
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200406
+LR  - 20210402
+IS  - 1876-4320 (Electronic)
+IS  - 1874-9399 (Print)
+IS  - 1874-9399 (Linking)
+VI  - 1863
+IP  - 4
+DP  - 2020 Apr
+TI  - Maternally expressed gene 3 in metabolic programming.
+PG  - 194396
+LID - S1874-9399(19)30156-7 [pii]
+LID - 10.1016/j.bbagrm.2019.06.007 [doi]
+AB  - Maternally Expressed Gene 3 (MEG3) is a long noncoding RNA (lncRNA) that coordinates 
+      a diverse array of cellular processes requiring epigenetic regulation of genes and 
+      interactions with key signaling proteins and by acting as a competitive endogenous 
+      (ce)RNA. Epigenetic modifications driven by in utero nutrition affect MEG3 
+      expression and its role in the development of multiple metabolic disorders. This 
+      review examines how epigenetic modification of MEG3 expression can confer 
+      adaptedness to different metabolic environments. To this end, we discuss how 
+      nutritional status that leads to an increase of MEG3 expression can protect against 
+      cancer and metabolic dysfunctions, while interventions that promote MEG3 
+      downregulation minimize the pleiotropic costs associated with its expression. 
+      Lastly, we identify research directions that would further shed light on the role of 
+      MEG3 in metabolic regulation and in functional imprinted gene networks. This article 
+      is part of a Special Issue entitled: ncRNA in control of gene expression edited by 
+      Kotb Abdelmohsen.
+CI  - Published by Elsevier B.V.
+FAU - Hamilton, Samuel
+AU  - Hamilton S
+AD  - Experimental Gerontology Section, Translational Gerontology Branch, National 
+      Institute on Aging, National Institutes of Health, Baltimore, MD 21224, USA.
+FAU - de Cabo, Rafael
+AU  - de Cabo R
+AD  - Experimental Gerontology Section, Translational Gerontology Branch, National 
+      Institute on Aging, National Institutes of Health, Baltimore, MD 21224, USA.
+FAU - Bernier, Michel
+AU  - Bernier M
+AD  - Experimental Gerontology Section, Translational Gerontology Branch, National 
+      Institute on Aging, National Institutes of Health, Baltimore, MD 21224, USA. 
+      Electronic address: Bernierm@mail.nih.gov.
+LA  - eng
+GR  - Z99 AG999999/ImNIH/Intramural NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Intramural
+PT  - Review
+DEP - 20190701
+TA  - Biochim Biophys Acta Gene Regul Mech
+JT  - Biochimica et biophysica acta. Gene regulatory mechanisms
+JID - 101731723
+RN  - 0 (MEG3 non-coding RNA, human)
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Epigenesis, Genetic
+MH  - Gene Expression Regulation
+MH  - Genes, Tumor Suppressor
+MH  - Humans
+MH  - Metabolic Syndrome/genetics
+MH  - Neoplasms/genetics/metabolism
+MH  - RNA, Long Noncoding/biosynthesis/genetics/*metabolism
+PMC - PMC6938580
+MID - NIHMS1533242
+OTO - NOTNLM
+OT  - *Epigenetic imprinting
+OT  - *MEG3
+OT  - *Metabolic programming
+OT  - *miRNA sponge
+COIS- Declaration of Competing Interest The authors have no conflicts of interests to 
+      declare.
+EDAT- 2019/07/05 06:00
+MHDA- 2020/04/09 06:00
+CRDT- 2019/07/05 06:00
+PHST- 2019/04/19 00:00 [received]
+PHST- 2019/06/20 00:00 [accepted]
+PHST- 2019/07/05 06:00 [pubmed]
+PHST- 2020/04/09 06:00 [medline]
+PHST- 2019/07/05 06:00 [entrez]
+AID - S1874-9399(19)30156-7 [pii]
+AID - 10.1016/j.bbagrm.2019.06.007 [doi]
+PST - ppublish
+SO  - Biochim Biophys Acta Gene Regul Mech. 2020 Apr;1863(4):194396. doi: 
+      10.1016/j.bbagrm.2019.06.007. Epub 2019 Jul 1.
+
+PMID- 32520926
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210218
+LR  - 20211204
+IS  - 1643-3750 (Electronic)
+IS  - 1234-1010 (Print)
+IS  - 1234-1010 (Linking)
+VI  - 26
+DP  - 2020 Jun 10
+TI  - Maternally-Expressed Gene 3 (MEG3)/miR-143-3p Regulates Injury to Periodontal 
+      Ligament Cells by Mediating the AKT/Inhibitory κB Kinase (IKK) Pathway.
+PG  - e922486
+LID - 10.12659/MSM.922486 [doi]
+AB  - BACKGROUND Dysregulated long noncoding RNAs (lncRNAs) are implicated in 
+      periodontitis development. Nevertheless, the role and mechanism of lncRNA 
+      maternally-expressed gene 3 (MEG3) in periodontitis progression remain unclear. This 
+      study aimed to explore how and whether MEG3 affect viability, apoptosis, and 
+      inflammatory response in lipopolysaccharide (LPS)-treated periodontal ligament cells 
+      (PDLCs). MATERIAL AND METHODS Periodontal ligament tissues were collected from 
+      periodontitis patients or normal individuals. PDLCs were obtained from normal 
+      periodontal ligament and treated with lipopolysaccharide (LPS). LPS-induced PDLCs 
+      injury was assessed via viability, apoptosis and inflammatory response using Cell 
+      Counting Kit-8, flow cytometry, quantitative reverse transcription polymerase chain 
+      reaction, enzyme-linked immunosorbent assay, and Western blot. The levels of MEG3 
+      and microRNA (miR)-143-3p were examined via quantitative reverse transcription 
+      polymerase chain reaction. The protein kinase B(AKT)/inhibitory kappaB kinase (IKK) 
+      pathway was analyzed via Western blot. The target correlation of MEG3 and miR-143-3p 
+      was determined through dual-luciferase reporter analysis. RESULTS MEG3 level was 
+      decreased and miR-143-3p level was upregulated in periodontitis and LPS-treated 
+      PDLCs. MEG3 overexpression or miR-143-3p knockdown alleviated LPS-induced viability 
+      inhibition, apoptosis promotion, and inflammatory response. MEG3 was a sponge for 
+      miR-143-3p. miR-143-3p overexpression weakened the effect of MEG3 on LPS-induced 
+      injury. MEG3 overexpression inhibited the activation of AKT/IKK pathway by sponging 
+      miR-143-3p in LPS-treated PDLCs. CONCLUSIONS MEG3 overexpression inhibited 
+      LPS-induced injury in PDLCs by inactivating the AKT/IKK pathway via sponging 
+      miR-143-3p, providing a potential target for treatment of periodontitis.
+FAU - Dong, Yao
+AU  - Dong Y
+AD  - Department of Stomatology, HwaMei Hospital, University of Chinese Academy of 
+      Science, Ningbo, Zhejiang, China (mainland).
+FAU - Feng, Shuairu
+AU  - Feng S
+AD  - Department of Stomatology, HwaMei Hospital, University of Chinese Academy of 
+      Science, Ningbo, Zhejiang, China (mainland).
+FAU - Dong, Feijun
+AU  - Dong F
+AD  - Department of Stomatology, HwaMei Hospital, University of Chinese Academy of 
+      Science, Ningbo, Zhejiang, China (mainland).
+LA  - eng
+PT  - Journal Article
+DEP - 20200610
+TA  - Med Sci Monit
+JT  - Medical science monitor : international medical journal of experimental and clinical 
+      research
+JID - 9609063
+RN  - 0 (Apoptosis Regulatory Proteins)
+RN  - 0 (MEG3 non-coding RNA, human)
+RN  - 0 (MIRN143 microRNA, human)
+RN  - 0 (MicroRNAs)
+RN  - 0 (RNA, Long Noncoding)
+RN  - EC 2.7.11.1 (AKT1 protein, human)
+RN  - EC 2.7.11.1 (Proto-Oncogene Proteins c-akt)
+RN  - EC 2.7.11.10 (I-kappa B Kinase)
+SB  - IM
+MH  - Adult
+MH  - Apoptosis/drug effects
+MH  - Apoptosis Regulatory Proteins/metabolism
+MH  - Asians/genetics
+MH  - Cell Proliferation/drug effects
+MH  - Cell Survival/drug effects
+MH  - Female
+MH  - Humans
+MH  - I-kappa B Kinase/metabolism
+MH  - Male
+MH  - MicroRNAs/*genetics/metabolism
+MH  - Periodontal Ligament/metabolism
+MH  - Periodontitis/*genetics/metabolism/pathology
+MH  - Proto-Oncogene Proteins c-akt/metabolism
+MH  - RNA, Long Noncoding/*genetics/metabolism
+PMC - PMC7301678
+COIS- Conflicts of interest. None.
+EDAT- 2020/06/11 06:00
+MHDA- 2021/02/20 06:00
+CRDT- 2020/06/11 06:00
+PHST- 2020/06/11 06:00 [entrez]
+PHST- 2020/06/11 06:00 [pubmed]
+PHST- 2021/02/20 06:00 [medline]
+AID - 922486 [pii]
+AID - 10.12659/MSM.922486 [doi]
+PST - epublish
+SO  - Med Sci Monit. 2020 Jun 10;26:e922486. doi: 10.12659/MSM.922486.
+
+PMID- 31301299
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200522
+LR  - 20210123
+IS  - 1095-564X (Electronic)
+IS  - 0012-1606 (Print)
+IS  - 0012-1606 (Linking)
+VI  - 455
+IP  - 1
+DP  - 2019 Nov 1
+TI  - Meg3-DMR, not the Meg3 gene, regulates imprinting of the Dlk1-Dio3 locus.
+PG  - 10-18
+LID - S0012-1606(18)30689-4 [pii]
+LID - 10.1016/j.ydbio.2019.07.005 [doi]
+AB  - The imprinted delta like 1 homolog (DLK1) - thyroxine deiodinase type III (DIO3) 
+      locus regulates development and growth. Its imprinting regulation involves two 
+      differentially methylated regions (DMRs), intergenic-DMR (IG-DMR) and maternally 
+      expressed gene 3-DMR (Meg3-DMR). In mice, a maternal deletion of the IG-DMR leads to 
+      LOI in the locus, proving that the IG-DMR is a cis-acting imprinting control region 
+      of the locus. However, the Meg3-DMR overlaps with the promoter, exon 1 and intron 1 
+      of the Meg3 gene. Because deletion of the Meg3-DMR inactivates the Meg3 gene, their 
+      roles in imprinting regulation of Meg3-DMR mice is unknown. Therefore, we generated 
+      two mouse models: Meg3(Δ(1-4)) and Meg3(Δ(2-4)), respectively targeting exons 1-4 
+      and exons 2-4 of the Meg3 gene. A maternal deletion of Meg3(Δ(1-4)) caused embryonic 
+      death and LOI in both embryos and placentas, but did not affect methylation status 
+      of the IG-DMR. In contrast, mice carrying a maternal deletion of Meg3(Δ(2-4)) were 
+      born normally and did not have LOI. These data indicate that it is the Meg3-DMR, not 
+      the Meg3 gene, which regulates imprinting of the Dlk1-Dio3 locus.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Zhu, Wende
+AU  - Zhu W
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Botticelli, Erin M
+AU  - Botticelli EM
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Kery, Rachel E
+AU  - Kery RE
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Mao, Yanfei
+AU  - Mao Y
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Wang, Xin
+AU  - Wang X
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Yang, Anli
+AU  - Yang A
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Wang, Xianling
+AU  - Wang X
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Zhou, Jie
+AU  - Zhou J
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Zhang, Xun
+AU  - Zhang X
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Soberman, Roy J
+AU  - Soberman RJ
+AD  - Nephrology Division, Massachusetts General Hospital and Harvard Medical School, 
+      Boston, MA, 02114, USA.
+FAU - Klibanski, Anne
+AU  - Klibanski A
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA.
+FAU - Zhou, Yunli
+AU  - Zhou Y
+AD  - Neuroendocrine Unit, Massachusetts General Hospital and Harvard Medical Shcool, 
+      Boston, MA 02114, USA. Electronic address: yunli.zhou@mgh.harvard.edu.
+LA  - eng
+GR  - R01 CA193520/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190710
+TA  - Dev Biol
+JT  - Developmental biology
+JID - 0372762
+RN  - 0 (Calcium-Binding Proteins)
+RN  - 0 (Dlk1 protein, mouse)
+RN  - 0 (MEG3 non-coding RNA, mouse)
+RN  - 0 (RNA, Long Noncoding)
+RN  - EC 1.11.1.- (iodothyronine deiodinase type III)
+RN  - EC 1.11.1.8 (Iodide Peroxidase)
+SB  - IM
+MH  - Animals
+MH  - Calcium-Binding Proteins/genetics
+MH  - *DNA Methylation
+MH  - Embryonic Development/genetics
+MH  - Exons/genetics
+MH  - Female
+MH  - Gene Expression Regulation, Developmental
+MH  - *Genetic Loci
+MH  - *Genomic Imprinting
+MH  - Iodide Peroxidase/genetics
+MH  - Male
+MH  - Mice, Inbred BALB C
+MH  - Mice, Inbred C57BL
+MH  - Mice, Inbred DBA
+MH  - Mice, Knockout
+MH  - Mice, Transgenic
+MH  - Placenta/metabolism
+MH  - Pregnancy
+MH  - RNA, Long Noncoding/*genetics
+MH  - Sequence Deletion
+PMC - PMC6754764
+MID - NIHMS1535307
+OTO - NOTNLM
+OT  - *DLK1-DIO3 locus
+OT  - *Genomic imprinting
+OT  - *IG-DMR
+OT  - *Imprinting control region
+OT  - *MEG3
+OT  - *MEG3-DMR
+COIS- Declarations of interest: none
+EDAT- 2019/07/14 06:00
+MHDA- 2020/05/23 06:00
+CRDT- 2019/07/14 06:00
+PHST- 2019/01/22 00:00 [received]
+PHST- 2019/07/05 00:00 [revised]
+PHST- 2019/07/09 00:00 [accepted]
+PHST- 2019/07/14 06:00 [pubmed]
+PHST- 2020/05/23 06:00 [medline]
+PHST- 2019/07/14 06:00 [entrez]
+AID - S0012-1606(18)30689-4 [pii]
+AID - 10.1016/j.ydbio.2019.07.005 [doi]
+PST - ppublish
+SO  - Dev Biol. 2019 Nov 1;455(1):10-18. doi: 10.1016/j.ydbio.2019.07.005. Epub 2019 Jul 
+      10.
+
+PMID- 31794744
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201023
+LR  - 20201023
+IS  - 1090-2430 (Electronic)
+IS  - 0014-4886 (Linking)
+VI  - 325
+DP  - 2020 Mar
+TI  - Long non-coding RNA MEG3 promotes cerebral ischemia-reperfusion injury through 
+      increasing pyroptosis by targeting miR-485/AIM2 axis.
+PG  - 113139
+LID - S0014-4886(19)30286-9 [pii]
+LID - 10.1016/j.expneurol.2019.113139 [doi]
+AB  - OBJECTIVE: Inflammasome contributes to ischemic brain injury by inducing pyroptosis 
+      and inflammation. The aim of this study is to unravel the mechanism of long 
+      non-coding RNA (lncRNA) maternally expressed gene 3 (MEG3)-mediated regulation of 
+      absent in melanoma 2 (AIM2) inflammasome during cerebral ischemia/reperfusion (I/R). 
+      METHODS: In vivo middle cerebral artery occlusion (MCAO) rat model and in vitro 
+      oxygen-glucose deprivation/reperfusion (OGD/R)-treated neurocytes model were 
+      generated. TTC, H&E staining and TUNEL were performed to assess the cerebral 
+      ischemic injury. LDH and MTT assays were used to detect cell viability and 
+      cytotoxicity. qRT-PCR was used to detect the expression levels of MEG3, miR-485 and 
+      AIM2. Immunohistochemistry (IHC) and immunofluorescence were conducted to detect the 
+      AIM2 expression. ELISA and Western blotting were performed to determine the 
+      secretion and protein levels of inflammasome signaling proteins. Dual luciferase 
+      reporter assay and Ago2-RIP were used to validate the direct interaction among MEG3, 
+      miR-485 and AIM2. RESULTS: In both MCAO rats and OGD/R-treated neurocytes, MEG3 and 
+      AIM2 were significantly up-regulated, whereas miR-485 was down-regulated. MCAO 
+      induces pyroptosis and release of IL-1β and IL-18 in ischemia brain. MEG3 acted as a 
+      molecular sponge to suppress miR-485, and AIM2 was identified as a direct target of 
+      miR-485. Knockdown of MEG3 inhibited OGD/R-induced pyroptosis and inflammation, and 
+      lack of MEG3 inhibited caspase1 signaling and decreased the expression of AIM2, ASC, 
+      cleaved-caspase1 and GSDMD-N. While overexpression of MEG3 exerted opposite effects. 
+      CONCLUSION: MEG3/miR-485/AIM2 axis contributes to pyroptosis via activating caspase1 
+      signaling during cerebral I/R, suggesting that this axis may be a potent therapeutic 
+      target in ischemic stroke.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Liang, Ji
+AU  - Liang J
+AD  - Department of Neurology, Affiliated Haikou Hospital of Xiangya Medical College, 
+      Central South University, Haikou 570208, Hainan Province, PR China.
+FAU - Wang, Qiang
+AU  - Wang Q
+AD  - Department of Neurology, Affiliated Haikou Hospital of Xiangya Medical College, 
+      Central South University, Haikou 570208, Hainan Province, PR China.
+FAU - Li, Jun-Qi
+AU  - Li JQ
+AD  - Department of Neurology, Affiliated Haikou Hospital of Xiangya Medical College, 
+      Central South University, Haikou 570208, Hainan Province, PR China.
+FAU - Guo, Tie
+AU  - Guo T
+AD  - Department of ICU, The First Affiliated Hospital of Zhengzhou University, PR China.
+FAU - Yu, Dan
+AU  - Yu D
+AD  - Department of Neurology, Affiliated Haikou Hospital of Xiangya Medical College, 
+      Central South University, Haikou 570208, Hainan Province, PR China. Electronic 
+      address: yudanyuyue@163.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191130
+PL  - United States
+TA  - Exp Neurol
+JT  - Experimental neurology
+JID - 0370712
+RN  - 0 (AIM2 protein, human)
+RN  - 0 (AIM2 protein, rat)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (Inflammasomes)
+RN  - 0 (MEG3 non-coding RNA, human)
+RN  - 0 (MEG3 non-coding RNA, rat)
+RN  - 0 (MIRN485 microRNA, human)
+RN  - 0 (MIRN485 microRNA, rat)
+RN  - 0 (MicroRNAs)
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Animals
+MH  - Cell Line
+MH  - DNA-Binding Proteins/genetics/*metabolism
+MH  - Gene Expression Regulation/*physiology
+MH  - Humans
+MH  - Infarction, Middle Cerebral Artery/genetics/*metabolism/pathology
+MH  - Inflammasomes/genetics/metabolism
+MH  - Male
+MH  - MicroRNAs/genetics/*metabolism
+MH  - Neurons/metabolism/pathology
+MH  - Pyroptosis/physiology
+MH  - RNA, Long Noncoding/genetics/*metabolism
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Reperfusion Injury/genetics/*metabolism/pathology
+OTO - NOTNLM
+OT  - *AIM2
+OT  - *Cerebral ischemia-reperfusion injury
+OT  - *MEG3
+OT  - *Pyroptosis
+OT  - *miR-485
+COIS- Declaration of Competing Interest The authors declare that there are no conflicts of 
+      interest.
+EDAT- 2019/12/04 06:00
+MHDA- 2020/10/24 06:00
+CRDT- 2019/12/04 06:00
+PHST- 2019/05/30 00:00 [received]
+PHST- 2019/11/28 00:00 [revised]
+PHST- 2019/11/29 00:00 [accepted]
+PHST- 2019/12/04 06:00 [pubmed]
+PHST- 2020/10/24 06:00 [medline]
+PHST- 2019/12/04 06:00 [entrez]
+AID - S0014-4886(19)30286-9 [pii]
+AID - 10.1016/j.expneurol.2019.113139 [doi]
+PST - ppublish
+SO  - Exp Neurol. 2020 Mar;325:113139. doi: 10.1016/j.expneurol.2019.113139. Epub 2019 Nov 
+      30.
+
+PMID- 27848894
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170710
+LR  - 20200124
+IS  - 1873-4294 (Electronic)
+IS  - 1568-0266 (Print)
+IS  - 1568-0266 (Linking)
+VI  - 17
+IP  - 15
+DP  - 2017
+TI  - LncRNA as a Therapeutic Target for Angiogenesis.
+PG  - 1750-1757
+LID - 10.2174/1568026617666161116144744 [doi]
+AB  - BACKGROUND: Out of 3 billion base pairs in human genome only ~2% code for proteins; 
+      and out of 180,000 transcripts in human cells, about 20,000 code for protein, 
+      remaining 160,000 are non-coding transcripts. Most of these transcripts are more 
+      than 200 base pairs and constitute a group of long non-coding RNA (lncRNA). Many of 
+      the lncRNA have its own promoter, and are well conserved in mammals. Accumulating 
+      evidence indicates that lncRNAs act as molecular switches in cellular 
+      differentiation, movement, apoptosis, and in the reprogramming of cell states by 
+      altering gene expression patterns. However, the role of this important group of 
+      molecules in angiogenesis is not well understood. Angiogenesis is a complex process 
+      and depends on precise regulation of gene expression. CONCLUSION: Dysregulation of 
+      transcription during this process may lead to several diseases including various 
+      cancers. As angiogenesis is an important process in cancer pathogenesis and 
+      treatment, lncRNA may be playing an important role in angiogenesis. In support of 
+      this, lncRNA microvascular invasion in hepatocellular carcinoma (MVIH) has been 
+      shown to activate angiogenesis. Furthermore, lncRNA-Meg3-knockout mouse showed 
+      increased expression of vascular endothelial growth factor pathway genes and 
+      increased cortical microvessel density. Overall, there is strong evidence that 
+      lncRNA is an important class of regulatory molecule, and a number of studies have 
+      demonstrated that these can be targeted to change cellular physiology and functions. 
+      In this review, we have attempted to summarize these studies and elucidate the 
+      potential of this novel regulatory molecule as a therapeutic target.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.org.
+FAU - Kumar, Mohan M
+AU  - Kumar MM
+AD  - Lawrence D. Longo MD Center for Perinatal Biology, Loma Linda University, Loma 
+      Linda, CA, United States.
+FAU - Goyal, Ravi
+AU  - Goyal R
+AD  - Lawrence D. Longo MD Center for Perinatal Biology, Loma Linda University, School of 
+      Medicine, Loma Linda, CA 92350, United States.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Curr Top Med Chem
+JT  - Current topics in medicinal chemistry
+JID - 101119673
+RN  - 0 (RNA, Long Noncoding)
+SB  - IM
+MH  - Animals
+MH  - Carcinoma, Hepatocellular/*drug therapy/*genetics/metabolism/pathology
+MH  - Humans
+MH  - Liver Neoplasms/*drug therapy/*genetics/metabolism/pathology
+MH  - Neovascularization, Pathologic/*drug therapy/*genetics/metabolism/pathology
+MH  - RNA, Long Noncoding/*antagonists & inhibitors/genetics/metabolism
+PMC - PMC5421140
+OTO - NOTNLM
+OT  - Epigenetic regulation
+OT  - Linc-MD1
+OT  - LncRNA
+OT  - gene expression
+OT  - intervening noncoding RNA
+EDAT- 2016/11/17 06:00
+MHDA- 2017/07/14 06:00
+CRDT- 2016/11/17 06:00
+PHST- 2016/07/14 00:00 [received]
+PHST- 2016/08/25 00:00 [revised]
+PHST- 2016/09/21 00:00 [accepted]
+PHST- 2016/11/17 06:00 [pubmed]
+PHST- 2017/07/14 06:00 [medline]
+PHST- 2016/11/17 06:00 [entrez]
+AID - CTMC-EPUB-79757 [pii]
+AID - CTMC-17-1750 [pii]
+AID - 10.2174/1568026617666161116144744 [doi]
+PST - ppublish
+SO  - Curr Top Med Chem. 2017;17(15):1750-1757. doi: 10.2174/1568026617666161116144744.
